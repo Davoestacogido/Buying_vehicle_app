@@ -1,0 +1,4 @@
+Nombre;Vehiculos disponibles;Id del Modelo;Precio Base;Marca;Motor;nPuertas;Extras disponibles;Combustible;Comentarios (dni+comentario)
+Ford 4650;[654,54];5328;30000;Ford;4650x;4;[789];diesel;45558696JMal modelo poco eficiente-44265459GDemasiado gasto
+Fiat-True21;[548, 864];2368;40000;Fiat;GTX;5;[121, 314];gasolina;44265459GFacil de aparcar
+Mercedes 3000;[546,5684];5468;50000;Mercedes;3000;3;[456, 101];electrico;42245959GBuen sistema de GPS-45456565DRecomendable, buen modelo
